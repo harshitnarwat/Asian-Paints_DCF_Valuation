@@ -91,3 +91,22 @@ Market and financial inputs should be independently verified before using the mo
 ## Disclaimer
 
 This project is created for **educational and portfolio purposes only**. It is not investment advice or a recommendation to buy or sell any security.
+
+
+
+
+
+
+## Valuation Analysis Screenshots
+
+### DuPont Analysis
+![DuPont Analysis](screenshots/Dupont%20Analysis-1.png)
+
+### DCF Valuation
+![DCF Valuation](screenshots/DCF.png)
+
+### Football Field Analysis
+![Football Field Analysis](screenshots/Football%20Field%20Analysis.png)
+
+### Relative Valuation
+![Relative Valuation](screenshots/Relative%20valuation.png)
